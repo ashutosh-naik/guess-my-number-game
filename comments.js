@@ -1,5 +1,7 @@
 "use strict";
 
+// EXTRA CODE
+
 /*
 // Practice
 console.log(document.querySelector(".message").textContent);
